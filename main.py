@@ -15,4 +15,6 @@ def testFunction():
             print(i)
 
 
+print('HI')
+
 testFunction()
