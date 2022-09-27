@@ -1,3 +1,6 @@
 #service folders
 .idea/*
 venv/*
+igcat
+regions
+seq_data
