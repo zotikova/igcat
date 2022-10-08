@@ -42,7 +42,7 @@ The **goal** is to end-up with ROC-curve summarizing all metrics to define more 
 *This repo hosted by Dana Zotikova igCat Project*
 
 ## Some results:
-![](../../Untitled Folder/Framework Region 1.png)
-![](../../Untitled Folder/Framework Region 2.png)
-![](../../../../Pictures/Screenshots/Screenshot from 2022-09-27 20-31-59.png)
-![](../../../../Pictures/Screenshots/Screenshot from 2022-09-27 20-31-13.png)
+![](/home/dana/Documents/dana/py_projects/igcat/images/Framework Region 1.png)
+![](/home/dana/Documents/dana/py_projects/igcat/images/Framework Region 2.png)
+![](/home/dana/Documents/dana/py_projects/igcat/images/Screenshot from 2022-09-27 20-31-13.png)
+![](/home/dana/Documents/dana/py_projects/igcat/images/Screenshot from 2022-09-27 20-31-59.png)
